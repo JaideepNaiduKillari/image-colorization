@@ -1,3 +1,7 @@
+<h1>AI Course Project on Image colourization using GAN</h1>
+Professor : Dr . Selam D
+
+
 
 <h3>
   <strong>Introduction</strong>
